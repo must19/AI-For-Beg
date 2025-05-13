@@ -2,7 +2,7 @@
   "name": "Miniconda (Python 3)",
   "image": "mcr.microsoft.com/devcontainers/miniconda",
   "hostRequirements": { 
-    "cpus": 4, 
+    "cpus": 2, 
     "memory": "8gb", 
     "storage": "50gb"
   },
